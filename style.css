@@ -354,7 +354,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "my inspired work";
 
 }
 .teams .carousel .card{
@@ -386,7 +386,7 @@ section .title::after{
     height: 150px;
     width: 150px;
     object-fit: cover;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     border: 5px solid crimson;
 }
 .teams .carousel .card:hover img{
