@@ -93,6 +93,7 @@ html{
     opacity: 1;
     pointer-events: auto;
 }
+
 /* home section styling */
 .home{
     display: flex;
@@ -114,7 +115,7 @@ html{
     margin-left: -3px;
 }
 .home .home-content .text-3{
-    font-size: 40px;
+    font-size: 25px;
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
@@ -615,7 +616,7 @@ footer span a:hover{
         padding: 0 23px;
     }
     .home .home-content .text-3{
-        font-size: 60px;
+        font-size: 20px;
     }
     .home .home-content .text-3{
         font-style: 32px;
