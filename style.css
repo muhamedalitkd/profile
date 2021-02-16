@@ -354,7 +354,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "my inspired work";
+    content: "my work";
 
 }
 .teams .carousel .card{
